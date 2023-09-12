@@ -1,0 +1,12 @@
+{
+  "name": "floater-note",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.4.2"
+  }
+}
